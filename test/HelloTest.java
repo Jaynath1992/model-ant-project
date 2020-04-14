@@ -5,5 +5,6 @@ public class HelloTest extends TestCase {
     public void test2() {}
     public void test3() {
         new Hello().foo();
+        System.out.println("Hello from Jaynath Kumar")
     }
 }
